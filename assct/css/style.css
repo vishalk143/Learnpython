@@ -1,0 +1,28 @@
+/* CSS */
+a{
+    text-decoration:none;
+    color: white;
+}
+
+li{
+    /* border-style: solid; */
+    display: inline-block;
+    background-color: red;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    font-size: 15px;
+}
+
+ul{
+    text-align: right;
+}
+
+.bg{
+    background-image:url(../images/large.jpg);
+    height: 800px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
